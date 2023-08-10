@@ -6,7 +6,7 @@ setup(
     name='sourceparser',
     version='0.1.1',
     description='A simple resume parser used for extracting information from resumes',
-    url='https://github.com/gamingflexer/resume-parser-ranker',
+    url='https://github.com/bvaibhawk/Resume_Sorter',
     author='gamingflexer',
     author_email='',
     license='MIT',
