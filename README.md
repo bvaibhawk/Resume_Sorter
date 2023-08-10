@@ -1,4 +1,4 @@
-# Resume Parser & Ranker
+# Resume Parser & Sorter
 
 ```
 Resume Parser | Resume Ranker | Resume Summariser
@@ -35,7 +35,7 @@ And many more ....
 - You can install this package using
 
 ```
-git clone https://github.com/gamingflexer/resume-parser-ranker.git
+git clone https://github.com/bvaibhawk/Resume_Sorter
 cd resume-parser-ranker
 pip install -e .
 ```
@@ -94,16 +94,5 @@ optional arguments:
   -gpu, --gpuPresent    Add if GPU Present
 ```
 
-# Result
 
-The module would return a list of dictionary objects with result as follows:
 
-```
-
-```
-
-# Donation
-
-For running the Self Learner we need funds. If you like this project and want to support us, you can donate us using the below link:
-
-- [Donate](gamingflexer)
