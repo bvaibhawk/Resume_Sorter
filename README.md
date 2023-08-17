@@ -53,7 +53,6 @@ python -m nltk.downloader stopwords
 
 # Documentation
 
-Official documentation is available at: 
 
 # Supported File Formats
 
